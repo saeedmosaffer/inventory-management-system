@@ -17,3 +17,7 @@ Explanation: Orders represent requests for products made by customers. Orders ar
 Suppliers:
 Attributes: Supplier ID, Name, Contact Information, Address, Payment Terms
 Explanation: Suppliers are external entities ,Suppliers are related to Products (as they provide the inventory), Orders (for purchasing items), and Warehouses (for receiving goods).
+
+[Tables.pdf](https://github.com/saeedmosaffer/inventory-management-system/files/14899315/Tables.pdf)
+
+https://app.swaggerhub.com/apis/SaeedMosaffer/inventory-management-system/1.0.0-oas3.1
